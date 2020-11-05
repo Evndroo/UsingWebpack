@@ -5,8 +5,6 @@ var campos = [
     document.querySelector('#quantidade')
 ];
 
-console.log(campos);
-
 var tbody = document.querySelector('table tbody');
 
 document.querySelector('.form').addEventListener('submit', function (event) {
